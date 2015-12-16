@@ -1,4 +1,4 @@
-![layout preview](https://github.com/rfsparkling/blob/master/BDVLS_TI_TXS0108E/BDVLS_0V1_preview.png)
+![layout preview](https://github.com/rfsparkling/BDVLS_TI_TXS0108E/blob/master/BDVLS_0V1_preview.png)
 
 BIDIRECTIONAL VOLTAGE LEVEL SHIFTER
 Based on Ti TXS0108E
